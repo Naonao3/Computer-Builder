@@ -1,4 +1,3 @@
-// ここからJavaScriptを記述してください。
 const config = {
   url:"https://api.recursionist.io/builder/computers?type=",
 
